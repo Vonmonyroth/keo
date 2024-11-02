@@ -9,4 +9,4 @@ tags:
 ---
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
-Short description of portfolio item number 1<br/><img src='/images/profile2.jpg
+Short description of portfolio item number 1<br/><img src='/images/profile2.jpg>
