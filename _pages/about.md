@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
- # Profile
 
 ## 🎓 Education
 I am currently a **final-year student** majoring in **Data Science**. My academic journey has equipped me with skills in data analysis, machine learning, and statistical modeling.
