@@ -27,4 +27,8 @@ Gratitude and Future Aspirations
 I am deeply grateful to the Sakura Science Program for providing me with this life-changing opportunity. The experiences and connections I made will continue to influence my journey. I look forward to applying the knowledge and inspiration I gained to my future endeavors and, hopefully, returning to Japan one day to deepen these ties.
 
 The Sakura Science Program is more than just an exchange; it is a bridge to understanding and innovation. I encourage anyone passionate about science and cultural exchange to seize such opportunities whenever possible.
+![Group Photo at Research Center][def]
 
+
+
+[def]: /images/group_photo.jpg
