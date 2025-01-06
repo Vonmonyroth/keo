@@ -21,7 +21,7 @@ I am currently a **final-year student** majoring in **Data Science**. My academi
 - **Tools**: Experienced with tools like Power BI, Label Studio, and TensorFlow.
 
 ## 📈 Projects
-- **School Information System Dashboard**: Developed a system to monitor data across 400 schools, covering student, teacher, and attendance data.
+- **School Information System Dashboard**: Developed a system to monitor data across the country, covering student, teacher, and attendance data.
 - **Intrusion Detection using CSI**: Designed an experiment setup leveraging Channel State Information to detect unusual activity patterns indicating potential security breaches.
 - **Digital Education Portal**: Worked on a national education portal with key modules to provide stakeholders with easy access to school data.
 
